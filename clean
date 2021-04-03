@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+# delete all .o, .so and files that ends with _.c
+rm *.so *.o *_.c
